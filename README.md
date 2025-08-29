@@ -55,6 +55,7 @@ It was developed as the **final project for CIS-579 Artificial Intelligence (Fal
 
 ---
 Sample Handwritten Text Prediction:
+16 test samples along with its corresponding text prediction.
 <img width="720" height="288" alt="Screenshot 2025-08-29 at 3 33 37 PM" src="https://github.com/user-attachments/assets/2c2d6456-b362-411a-ad8c-2da7d79fe389" />
 
 --- 
